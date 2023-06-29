@@ -16,6 +16,7 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
+    "@babel/plugin-transform-object-rest-spread": "^7.22.5",
     "nodemon": "^2.0.22"
   }
 }
